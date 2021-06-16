@@ -5,7 +5,7 @@ To expand my skills i finally decided to learn how to work with GitHub at VS Cod
 
 ### TODO: 
 - [x] Download Git
-- [ ] Learn basic comands (push, pull, commit)
+- [x] Learn basic comands (push, pull, commit)
 - [ ] Upload the main project
 
 to remote git [repository](https://github.com/17felix/testBash.git)

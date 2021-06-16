@@ -2,6 +2,8 @@
 It's time to become valubale as worker (Work+) 
 To expand my skills i finally decided to learn how to work with GitHub at VS Code
 
+some stuff writing on remote repository (to check [push])
+
 
 ### TODO: 
 - [x] Download Git

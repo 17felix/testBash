@@ -4,9 +4,9 @@ To expand my skills i finally decided to learn how to work with GitHub at VS Cod
 
 
 ### TODO: 
-- [ ] Download Git
+- [x] Download Git
 - [ ] Learn basic comands (push, pull, commit)
-- [ ] Upload the project
+- [ ] Upload the main project
 
 
 ### questions
@@ -16,4 +16,4 @@ To expand my skills i finally decided to learn how to work with GitHub at VS Cod
 on 
 
 ## what i use
-- [
+- [# How to use Git inside of VSCode - 2020](https://www.youtube.com/watch?v=F2DBSH2VoHQ)

@@ -13,6 +13,7 @@ to remote git [repository](https://github.com/17felix/testBash.git)
 ### comands
 #### push
 - git remote add origin https://github.com/17felix/testBash.git
+- git push -u origin master
 ### questions
 - 
 

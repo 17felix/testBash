@@ -17,7 +17,7 @@ to remote git [repository](https://github.com/17felix/testBash.git)
 - git remote add origin https://github.com/17felix/testBash.git
 - git push -u origin master
 ### questions
-- 
+- why while i still have uncommited changes i can't push them?
 
 ### Overview
 - i can't pull from remote repository while i have uncommited changes on local

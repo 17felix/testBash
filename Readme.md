@@ -8,7 +8,11 @@ To expand my skills i finally decided to learn how to work with GitHub at VS Cod
 - [ ] Learn basic comands (push, pull, commit)
 - [ ] Upload the main project
 
+to remote git [repository](https://github.com/17felix/testBash.git)
 
+### comands
+#### push
+- git remote add origin https://github.com/17felix/testBash.git
 ### questions
 - 
 
